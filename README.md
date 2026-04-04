@@ -16,12 +16,12 @@
 ## 📊 GITHUB STATS
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=KumarDevStudio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4d9fff&icon_color=4d9fff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarDevStudio&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4d9fff&text_color=c9d1d9&langs_count=6" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=kishanHQ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4d9fff&icon_color=4d9fff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanHQ&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4d9fff&text_color=c9d1d9&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KumarDevStudio&bg_color=0d1117&color=4d9fff&line=1a3a5c&point=4d9fff&area=true&area_color=0a1628&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanHQ&bg_color=0d1117&color=4d9fff&line=1a3a5c&point=4d9fff&area=true&area_color=0a1628&hide_border=true" width="95%" />
 </div>
 
 <br/>
@@ -31,7 +31,7 @@
 ## 🏆 TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KumarDevStudio&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kishanHQ&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 <br/>
@@ -128,9 +128,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KumarDevStudio/KumarDevStudio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KumarDevStudio/KumarDevStudio/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/KumarDevStudio/KumarDevStudio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishanHQ/kishanHQ/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishanHQ/kishanHQ/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/kishanHQ/kishanHQ/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -157,7 +157,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KumarDevStudio&color=4d9fff&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=kishanHQ&color=4d9fff&style=flat-square&label=Profile+Views" />
 </div>
 
 <div align="center">
