@@ -6,8 +6,8 @@
 ### 🚀 About Me
 - 🌐 Portfolio → [kishandev.in](https://kishandev.in)
 - 💼 Building scalable web products
-- 🏗️ Founder @ [Execution Byte](https://kishandev.in)
-- 📧 hi@kishandev.in
+- 🏗️ Company @ [Execution Byte](https://kishandev.in)
+- 📧 Kishan.itpro@gmail.com
 
 ---
 
@@ -37,4 +37,6 @@
 ---
 
 ### 🤝 Connect
-[🌐 kishandev.in](https://kishandev.in) · [📧 hi@kishandev.in](mailto:hi@kishandev.in) · [🏗️ Execution Byte](https://kishandev.in)
+[🌐 kishandev.in](https://kishandev.in) · [📧 Kishan.itpro@gmail.com
+](mailto:Kishan.itpro@gmail.com
+) · [🏗️ Execution Byte](https://kishandev.in)
