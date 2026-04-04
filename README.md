@@ -24,9 +24,8 @@ Full-Stack MERN Developer based in Chandigarh, India. I build web products for b
 ### 📫 Connect
 
 - 🌐 Portfolio — [kishandev.in](https://kishandev.in)
-- 📧 Email — [hi@kishandev.in](mailto:hi@kishandev.in)
+- 📧 Email — [kishan.itpro@gmail.com](mailto:kishan.itpro@gmail.com)
 - 💼 LinkedIn — [linkedin.com/in/kishan-webdev](https://linkedin.com/in/kishan-webdev)
-- 🏢 Agency — DevCraft Studio · 💻 Service — [CityChip](https://citychiplaptop.com)
 
 ---
 
